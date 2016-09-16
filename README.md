@@ -5,8 +5,13 @@ Getting started:
 ```
 > npm install
 ```
+Webpack
+```
 > webpack
 ```
+Start
+``` 
+
 > npm run start
 ```
 
